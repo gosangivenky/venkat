@@ -6,6 +6,7 @@ public class Tets {
 		System.out.println("hello");
 		System.out.println("java");
 		System.out.println("selenium");
+		System.out.println("core java");
 	}
 
 }
